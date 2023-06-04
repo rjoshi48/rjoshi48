@@ -1,16 +1,13 @@
-- Hi there 👋 , I am pursuing Master's of Engineering with a major in Software Engineering. My program focus on data analytics
-and software engineering.
-- 📖Coursework:
+- Hi there 👋 , I am pursuing Master's of Engineering with a major in Software Engineering. My program focus on data analytics and software engineering.
+    - 📖Coursework:
         Data Analytics Foundations, Machine Learning, Advanced Databases, Data Management & Application, Cloud Computing, Web Application Develop, Introduction to Hacking, Software Engineering for HCI Design           
 -  🔭 I am interested in Data Science and like to solve problems using Machine Learning.
--  ⚡ I also have strong backgroung in software development and DevOps. 
-
+-  ⚡ I also have strong backgroung in software development and DevOps.
 - 📫 How to reach me: 
-    📧 **Email**: rjoshi48@uwo.ca
-    🤝 [**LinkedIn**](https://www.linkedin.com/in/rinni-joshi/) 
+    - 📧 **Email**: rjoshi48@uwo.ca
+    - 🤝 [**LinkedIn**](https://www.linkedin.com/in/rinni-joshi/) 
 
-🌱 In my spare time, I solve some problems online on forums like LeetCode which can be viewed below:  
-[LeetCode](https://leetcode.com/rjoshi16/) 
+🌱 In my spare time, I solve some problems online on forums like LeetCode which can be viewed here: [LeetCode](https://leetcode.com/rjoshi16/) 
 
 ### Projects
  - [Rain Prediction based on Weather Data](https://github.com/rjoshi48/Rain-Prediction-based-on-Weather-Data) | Data Analytics 
