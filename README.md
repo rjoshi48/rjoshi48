@@ -1,8 +1,8 @@
--  Hi there 👋 , I am pursuing Master's of Engineering with a major in Software Engineering. My program focus on data analytics
+- Hi there 👋 , I am pursuing Master's of Engineering with a major in Software Engineering. My program focus on data analytics
 and software engineering.
+- 📖Coursework:
+        Data Analytics Foundations, Machine Learning, Advanced Databases, Data Management & Application, Cloud Computing, Web Application Develop, Introduction to Hacking, Software Engineering for HCI Design
 
-📖 Coursework:
-            Data Analytics Foundations, Machine Learning, Advanced Databases, Data Management & Application, Cloud Computing, Web Application Develop, Introduction to Hacking, Software Engineering for HCI Design
              
 -  🔭 I am interested in Data Science and like to solve problems using Machine Learning.
 -  ⚡ I also have strong backgroung in software development and DevOps. 
