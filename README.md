@@ -1,6 +1,6 @@
 - Hi there 👋 , I am pursuing Master's of Engineering with a major in Software Engineering. My program focus on data analytics and software engineering.
     - 📖Coursework:
-        Data Analytics Foundations, Machine Learning, Advanced Databases, Data Management & Application, Cloud Computing, Web Application Development, Introduction to Hacking, Software Engineering for HCI Design           
+        Data Analytics Foundations, Machine Learning, Advanced Databases, Data Management & Application, Cloud Computing, Web Application Development, Introduction to Hacking, Software Engineering for HCI Design, Project Management (ELI)           
 -  🔭 I am interested in Data Science and like to solve problems using Machine Learning.
 -  ⚡ I also have strong backgroung in software development and DevOps.
 - 📫 How to reach me: 
@@ -13,7 +13,7 @@
  - [Rain Prediction based on Weather Data](https://github.com/rjoshi48/Rain-Prediction-based-on-Weather-Data) | Data Analytics 
  - [Sign Language Recognition](https://github.com/rjoshi48/Sign-Language-Recognition) | Machine Learning
  - [Traffic-Sign-Recognition-Classifier](https://github.com/rjoshi48/Traffic-Sign-Recognition-Classifier) | Machine Learning
- - [Sales History Trends Analysis](https://github.com/rjoshi48/Sales-History-Trends-Analysis) | Datawarehouse
+ - [Sales History Trends Analysis](https://github.com/rjoshi48/Sales-History-Trends-Analysis) | ETL | SQL | DataWarehouse | Tableau
 
 ### Certifications
 - [Google Data Analytics Certificate](https://www.credly.com/badges/f25c0dcd-caf4-47c9-8a1b-58b573335ae3/linked_in_profile) | Mar, 2023
