@@ -15,6 +15,8 @@
  - [Traffic-Sign-Recognition-Classifier](https://github.com/rjoshi48/Traffic-Sign-Recognition-Classifier) | Machine Learning
  - [Sales History Trends Analysis](https://github.com/rjoshi48/Sales-History-Trends-Analysis) | ETL | SQL | DataWarehouse | Tableau
  - [Netflix movies data analysis using Dataiku](https://github.com/rjoshi48/Netflix_Movie_Analysis) | Dataiku
+ - [Music Library](https://github.com/rjoshi48/music-app-library) | Angular | Nodejs | Express | MongoDB
+ - [Pokédex](https://github.com/rjoshi48/Pokedex-lab2) | HTML | CSS | Javascript
 
 ### Certifications
 - [Google Data Analytics Certificate](https://www.credly.com/badges/f25c0dcd-caf4-47c9-8a1b-58b573335ae3/linked_in_profile) | Mar, 2023
