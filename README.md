@@ -14,7 +14,7 @@
  - [Sign Language Recognition](https://github.com/rjoshi48/Sign-Language-Recognition) | Machine Learning
  - [Traffic-Sign-Recognition-Classifier](https://github.com/rjoshi48/Traffic-Sign-Recognition-Classifier) | Machine Learning
  - [Sales History Trends Analysis](https://github.com/rjoshi48/Sales-History-Trends-Analysis) | ETL | SQL | DataWarehouse | Tableau
- - [Netflix movies data analysis using Dataiku](https://github.com/rjoshi48/Netflix_Movie_Analysis) | Dataiku
+ - [Netflix movies data analysis using Dataiku](https://github.com/rjoshi48/Netflix_Movie_Analysis) | Dataiku | Data Analytics
  - [Music Library](https://github.com/rjoshi48/music-app-library) | Angular | Nodejs | Express | MongoDB
  - [Pokédex](https://github.com/rjoshi48/Pokedex-lab2) | HTML | CSS | Javascript
 
