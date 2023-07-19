@@ -17,6 +17,7 @@
  - [Netflix movies data analysis using Dataiku](https://github.com/rjoshi48/Netflix_Movie_Analysis) | Dataiku | Data Analytics
  - [Music Library](https://github.com/rjoshi48/music-app-library) | Angular | Nodejs | Express | MongoDB
  - [Pokédex](https://github.com/rjoshi48/Pokedex-lab2) | HTML | CSS | Javascript
+ - [Calculator application (Infix and RPN)](https://github.com/rjoshi48/Calculator-App.git) | Python
 
 ### Certifications
 - [Google Data Analytics Certificate](https://www.credly.com/badges/f25c0dcd-caf4-47c9-8a1b-58b573335ae3/linked_in_profile) | Mar, 2023
